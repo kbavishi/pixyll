@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       
+email:       kbavishi@cs.wisc.edu
+author:      Karan Bavishi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://kbavishi.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -37,10 +37,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: kbavishi
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: karan_bavishi
 skype_username:
 steam_nickname:
 google_plus_id:

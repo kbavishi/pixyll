@@ -1,20 +1,17 @@
 ---
 layout: page
-title: About Pixyll
+title: Karan Bavishi
 permalink: /about/
-tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+As of Fall '16, I'm a Masters student at the *University of Wisconsin-Madison*.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Before that, I worked for 4 years at [Arista Networks](https://www.arista.com/en/) on L2 protocols, high availability infrastructure and applications for datacenter switches. Prior to that, I was an undergraduate
+at [BITS Pilani](http://www.bits-pilani.ac.in/pilani/). 
 
-Thanks to the following:
+I'm broadly interested in the areas of computer networks and distributed systems. Check out my projects page for more info.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+If not working at my laptop, you will most likely find me binge watching on Netflix or reading a book.
+
+[Here](/assets/Karan-Bavishi-Resume-Aug-2016.pdf) is my short resume.
+

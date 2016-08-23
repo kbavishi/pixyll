@@ -2,11 +2,8 @@
   <div class="p2 wrap">
     <div class="measure mt1 center">
       <small>
-        <a href="https://github.com/kbavishi/">
-            <img src="/github.png" alt="My GitHub profile" style="width:20px;height:20px;border:0;"> kbavishi</a> |
-        <a href="https://in.linkedin.com/pub/karan-bavishi/14/193/877">
-            <img src="/linkedin.png" alt="My LinkedIn profile" style="width:20px;height:20px;border:0;"> Karan Bavishi</a><br>
-        &lt;/&gt; available on <a href="https://github.com/kbavishi/kbavishi.github.io">Github</a>.
+        Crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
+        &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">Github</a>.
       </small>
     </div>
   </div>
