@@ -4,7 +4,7 @@ email:       kbavishi@cs.wisc.edu
 author:      Karan Bavishi
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pages.cs.wisc.edu/~kbavishi/"
+url:         "https://kbavishi.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
